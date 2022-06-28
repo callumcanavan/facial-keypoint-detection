@@ -8,7 +8,7 @@ Example outputs from an unseen image (after Haar cascade face detection and forw
 
 ![alt text](https://github.com/callumcanavan/facial-keypoint-detection/blob/master/images/keypoints.png?raw=true)
 
-This project was completed as part of the Udacity Computer Vision nanodegree which provided the notebooks and several other functionalities. Algorithm implementations and experiments with parameters/inputs were completed by myself.
+I completed this project as part of the Udacity Computer Vision nanodegree which provided the blank notebooks and several other functionalities. Algorithm implementations and experiments with parameters/inputs were completed by myself.
 
 # Depends
 ```
